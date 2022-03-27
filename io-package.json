@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "testowntracks",
-    "version": "1.0.1",
+    "version": "0.9.1",
     "title": "(Test)OwnTracks - Your location companion",
     "titleLang": {
       "en": "OwnTracks - Your location companion",
@@ -28,7 +28,7 @@
       "zh-cn": "OwnTracks允许您在ioBroker中跟踪自己的位置"
     },
     "news": {
-      "1.0.1": {
+      "0.9.1": {
         "en": "fix roles for type detection\nAdd Sentry for crash reporting",
         "de": "Rollen für die Typerkennung behoben\nFügen Sie Sentry für Absturzberichte hinzu",
         "ru": "исправить роли для определения типа\nДобавьте Sentry для отчетов о сбоях",
@@ -40,7 +40,7 @@
         "pl": "naprawić role do wykrywania typu\nDodaj Sentry do zgłaszania awarii",
         "zh-cn": "修复类型检测的角色\n添加 Sentry 以进行崩溃报告"
       },
-      "1.0.0": {
+      "0.9.0": {
         "en": "respect \"bind\" configuration, also for IPv6",
         "de": "Beachten Sie die \"Bind\" -Konfiguration auch für IPv6",
         "ru": "соблюдайте конфигурацию \"привязки\", в том числе и для IPv6",
