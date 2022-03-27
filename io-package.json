@@ -117,14 +117,14 @@
     "platform": "Javascript/Node.js",
     "mode": "daemon",
     "icon": "owntracks.png",
-    "extIcon": "https://raw.githubusercontent.com/lacluandea/ioBroker.testowntracks/master/admin/owntracks.png",
+    "extIcon": "https://raw.githubusercontent.com/lacluandea/ioBroker.testowtracks/master/admin/owntracks.png",
     "keywords": [
       "owntracks",
       "position",
       "gps",
       "geo"
     ],
-    "readme": "https://github.com/lacluandea/ioBroker.testowntracks/blob/master/README.md",
+    "readme": "https://github.com/lacluandea/ioBroker.testowtracks/blob/master/README.md",
     "loglevel": "info",
     "type": "geoposition",
     "materialize": true,

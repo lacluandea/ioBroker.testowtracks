@@ -1,7 +1,7 @@
 {
-  "name": "iobroker.testowntracks",
+  "name": "iobroker.testowtracks",
   "version": "0.9.1",
-  "description": "OwnTracks - Your location companion",
+  "description": "(Test)OwnTracks - Your location companion",
   "author": {
     "name": "bluefox",
     "email": "dogafox@gmail.com"
