@@ -35,7 +35,7 @@
     "url": "https://github.com/lacluandea/ioBroker.testowtracks"
   },
   "dependencies": {
-    "libsodium-wrappers": "^0.7.9",
+    "libsodium-wrappers": "^0.7.11",
     "create-stream-server": "^0.1.1",
     "mqtt-connection": "^4.1.0",
     "@iobroker/adapter-core": "^2.6.0"
